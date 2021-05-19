@@ -1,19 +1,21 @@
-goes by "acayrin" or "acay"
-
-make random stuffs when in mood
-
-
-<!--
-**Acayrin/Acayrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```Javascript
+/**
+ *  Intro?
+ */
+ 
+const user     = "acayrin" || "acay"
+const lang     = "vn_vi"
+const age      = -1
+const gend     = undefined
+const dev_lang = [
+    "js",
+    "php",
+    "html",
+    "css",
+    "java",
+    "anything left to learn"
+]
+const yes      = no
+const meme     = "r/FiftyFifty"
+const games    = Games.filter(G => G.platform === "mobile")
+```
