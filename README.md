@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi, u can call me acayrin, or simply acay
+
+i code random stuffs whenever im in the mood for it
+
+
 
 <!--
 **Acayrin/Acayrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
