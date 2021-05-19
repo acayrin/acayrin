@@ -1,7 +1,6 @@
-Hi, u can call me acayrin, or simply acay
+goes by "acayrin" or "acay"
 
-i code random stuffs whenever im in the mood for it
-
+make random stuffs when in mood
 
 
 <!--
