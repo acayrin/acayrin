@@ -4,7 +4,7 @@
  */
  
 const user     = "acayrin" || "acay"
-const lang     = "vn_vi"
+const lang     = [ "vn_vi", "us_en" ]
 const age      = -1
 const gend     = undefined
 const dev_lang = [
