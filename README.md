@@ -1,3 +1,8 @@
-``what the f*** do you even need from my account?``
+### hello yes welcome
 
-![](https://i.ibb.co/RQqYv8Y/68747470733a2f2f7777772e616d6f.png) 
+- 1x js, 1x php, 1x java, 2x dumb and 9000x paranoia
+- not so typical asian
+- have 0 idea what im doing and most likely going to break things
+
+<hr>
+<img src='https://discord.c99.nl/widget/theme-4/448046610723766273.png'>
