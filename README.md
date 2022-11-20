@@ -6,7 +6,7 @@ for the most part is lazy, but a maniac when the mood hits
 what i know, at bare minimum  | what i want to know    | tools
 - javascript / typescript     | - vlang                | - vsc
 - java / kotlin               | - c/C++                | - nvim
-- php?                        | - react                | - intellij <any>
+- php?                        | - react                | - jetbrains <any> (if i had more ram)
 - html, css/scss              | - go                   | - firebase
 - mysql?                      | - lua                  | - arch / alpine linux
 - mongodb?                    | - something...         | - slimmed windoze
