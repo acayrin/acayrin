@@ -6,8 +6,9 @@ for the most part is lazy, but a maniac when the mood hits
 what i know, at bare minimum  | what i want to know    | tools
 - javascript / typescript     | - vlang                | - vsc
 - java / kotlin               | - c/C++                | - nvim
-- php?                        | - react                | - jetbrains <any> (if i had more ram)
-- html, css/scss              | - go                   | - firebase
-- mysql?                      | - lua                  | - arch / alpine linux
+- php?                        | - go                   | - jetbrains <any> (if i had more ram)
+- html, css/scss              | - lua                  | - firebase
+- mysql?                      | - graphql              | - arch / alpine linux
 - mongodb?                    | - something...         | - slimmed windoze
+- react(native)?              |                        | - fly.io
 ```
