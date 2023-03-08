@@ -1,4 +1,4 @@
-for the most part is lazy, but a maniac when the mood hits
+no matter how much i did, i just couldn't see myself as a "true developer"
 
 <img src='https://discord.c99.nl/widget/theme-4/448046610723766273.png'>
 
