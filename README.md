@@ -5,10 +5,10 @@ no matter how much i did, i just couldn't see myself as a "true developer"
 ```
 what i know, at bare minimum  | what i want to know    | tools
 - javascript / typescript     | - vlang                | - vsc
-- java / kotlin               | - c/C++                | - nvim
+- java [C#] / kotlin          | - c/C++                | - nvim
 - php?                        | - go                   | - jetbrains <any> (if i had more ram)
 - html, css/scss              | - lua                  | - firebase
-- mysql?                      | - graphql              | - arch / alpine linux
-- mongodb?                    | - something...         | - slimmed windoze
-- react(native)?              |                        | - fly.io
+- react(native)?              | - graphql              | - arch / alpine linux
+                              | - something...         | - slimmed windoze
+                              |                        | - fly.io, vercel
 ```
