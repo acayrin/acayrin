@@ -1,4 +1,4 @@
-no matter how much i did, i just couldn't see myself as a "true developer"
+mostly just messing around things here and there, oh and discord too
 
 <img src='https://discord.c99.nl/widget/theme-4/448046610723766273.png'>
 
