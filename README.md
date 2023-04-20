@@ -1,9 +1,9 @@
-mostly just messing around things here and there, oh and discord too
+know something, impossible for everything
 
 <img src='https://discord.c99.nl/widget/theme-4/448046610723766273.png'>
 
 ```
-what i know, at bare minimum  | what i want to know    | tools
+minimum                       | may                    | tools
 - javascript / typescript     | - vlang                | - vsc
 - java [C#] / kotlin          | - c/C++                | - nvim
 - php?                        | - go                   | - jetbrains <any> (if i had more ram)
