@@ -1,5 +1,7 @@
 _Greetings random person reading my profile atm._
 
+<hr>
+
 My (nick)name is acay[rin]
 
 I'm currently studying "mobile app development" and often do coding on some random side projects
@@ -14,7 +16,10 @@ I'm currently studying "mobile app development" and often do coding on some rand
   - kotlin
   - html & scss
   - yaml + json (for config)
-  - (used to) php
+  - php*
+  - mysql*
+  - mongodb*
+  - key-value based db (like redis or firebase)*
 </details>
 
 <details>
@@ -25,13 +30,14 @@ I'm currently studying "mobile app development" and often do coding on some rand
   - go*
   - lua
   - python* (cuz of Artificial Inteligence overtaking the industry)
+  - graphql*
   - ...
   </details>
 
 <details>
   <summary>Tools i used:</summary>
   
-  - nodejs (would like to switch to [bun](https://bun.sh) soon
+  - nodejs (would like to switch to [bun](https://bun.sh) soon)
   - vscodium (libre version of vscode)
   - (basic) git
   - neovim
@@ -57,7 +63,7 @@ I'm currently studying "mobile app development" and often do coding on some rand
   2015 was when i started liking minecraft, playing around single player and some cracked multiplayer servers like teamextrememc, exgm, craftrealms, etc.
   Not until 2017 that i started hosting some of my own minecraft servers (tho they were never opened to the public)
   and there i got interested in bukkit plugin development and started learning java to write my own plugins. It was rough at first but i did
-  manage to make around 3-4 plugins which only one left exist in my private gitlab repo
+  manage to make around 3-4 plugins which only one left exist in my private gitlab repo.
 
   Some interesting websites caught my attenion around 2018 and there i started learning some more basic HTML/CSS/JS. I ended up making a log parser for minecraft,
   copied (as in reusing one's design, not stealing code) a minecraft server web frontend (that didn't go well to a server co-owner at the time so i had to
@@ -71,6 +77,7 @@ I'm currently studying "mobile app development" and often do coding on some rand
   And for C# - it is a requirement for learning on how to use the Unity engine.
 </details>
 
+<hr>
 
 Contact:
 - email: ow3kf1zge@mozmail.com
