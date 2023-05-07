@@ -41,6 +41,10 @@ I'm currently studying "mobile app development" and often do coding on some rand
   - ...
   - windows (slimmed ver. by AtlasOS)
   - linux (Arch is prefered, but Debian-based also works)
+  - ...
+  - [vercel](https://vercel.com)
+  - [fly](https://fly.io)
+  - [railway](https://railway.app)
   </details>
 
 <details>
