@@ -5,7 +5,7 @@ My (nick)name is acay[rin]
 I'm currently studying "mobile app development" and often do coding on some random side projects
 
 <details>
-  <summary>My current knowledge may limited to:</summary>
+  <summary>My current knowledge may limit to:</summary>
   
   - typescript
   - react
@@ -80,3 +80,7 @@ Contact:
 anyways
 
  _damn microsoft_
+ 
+ yes this thing is mostly text, not all icon and colorful like others
+ 
+ art by [funamusea](http://skeb.jp/@funamusea)
