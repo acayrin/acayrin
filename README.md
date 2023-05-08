@@ -44,6 +44,7 @@ I'm currently studying "mobile app development" and often do coding on some rand
   - intellij idea / android studio
   - (used to) eclipse ide for java
   - (basic) gimp / krita to edit some ~~stolen~~ artworks
+  - unity (basic 2D only)
   - ...
   - windows (slimmed ver. by AtlasOS)
   - linux (Arch is prefered, but Debian-based also works)
