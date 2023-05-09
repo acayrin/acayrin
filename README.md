@@ -4,7 +4,7 @@ _Greetings random person reading my profile atm._
 
 My (nick)name is acay[rin]
 
-I'm currently studying "mobile app development" and often do coding on some random side projects
+I'm currently studying app development and often do coding on some random side projects
 
 <details>
   <summary>My current knowledge may limit to:</summary>
