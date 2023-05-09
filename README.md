@@ -26,6 +26,7 @@ I'm currently studying app development and often do coding on some random side p
   <summary>Though i do have some interest in some other projects like:</summary>
   
   - [v lang](https://github.com/vlang/v)
+  - rust
   - c/c++
   - go*
   - lua
