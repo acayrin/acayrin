@@ -60,4 +60,4 @@ Contact:
 - discord:
 <img src='https://discord.c99.nl/widget/theme-4/448046610723766273.png'>
  
- art by [funamusea](http://skeb.jp/@funamusea)
+ [funamusea](http://skeb.jp/@funamusea)
